@@ -1,5 +1,5 @@
 ## Model
-Repositori ini berisi kode dan file yang terkait dengan model pembelajaran mesin untuk klasifikasi gambar menggunakan arsitektur MobileNet. Model dilatih pada kumpulan data yang terdiri dari dua kelas: Anemia dan Normal
+This repository contains code and files related to machine learning models for image classification using the MobileNet architecture. The model is drilled on a data set consisting of two classes: Anemic and Normal
 
 ## Dataset
 The dataset used for training and testing the model should be organized in the following directory structure:
