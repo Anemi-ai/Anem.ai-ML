@@ -1,0 +1,203 @@
+{
+  "intents": [
+      {"tag": "siapa",
+  "patterns": ["Siapa kamu?", "Kamu siapa?"],
+  "responses": ["Saya Hanya sebuah bot RumahTBC, Ayo mulai dengan pertanyaanmu.."],
+  "context_filter": "rentalday"
+},
+      {
+          "tag": "Hai",
+          "patterns": [
+              "Hello",
+              "Hi",
+              "Hey",
+              "Hallo"
+          ],
+          "responses": [
+              "Hallo! guys",
+              "Hai, Semuanya",
+              "Hallo, Hallo Siapa nama mu?"
+          ],
+          "context": [""]
+      },
+      {
+          "tag": "noanswer",
+          "patterns":[""],
+          "responses":[
+              "Maaf pertanyaan anda tidak sesuai, Tanyakan yang lain ..."],
+          "context" : [""]
+
+      },
+      {
+          "tag": "Nama",
+          "patterns": [
+              "Nama Saya",
+              "Panggilan Saya"
+          ],
+          "responses": [
+              "Senang Bertemu dengan mu",
+              "Namaku "
+          ],
+          "context": [""]
+      },
+      {
+          "tag": "bantuan",
+          "patterns": [
+              "saya butuh bantuan",
+              "bisakah kamu bantu saya",
+              "kamu bisa bantu saya?"
+          ],
+          "responses": [
+              "ya, saya bisa bantu anda",
+              "ya, apa itu?"
+          ],
+          "context": [""]
+      },
+      {
+        "tag": "anemia_definition",
+        "patterns": [
+          "Apa itu anemia?",
+          "Definisi anemia",
+          "Pengertian anemia"
+        ],
+        "responses": [
+          "Anemia adalah kondisi kurangnya sel darah merah atau hemoglobin dalam darah, yang dapat menyebabkan kelelahan dan kurangnya oksigen dalam tubuh."
+        ],
+        "context": [""]
+      },
+      {
+        "tag": "anemia_types",
+        "patterns": [
+          "Apa jenis-jenis anemia?",
+          "Macam-macam anemia",
+          "Bagaimana klasifikasi anemia?"
+        ],
+        "responses": [
+          "Ada beberapa jenis anemia, termasuk anemia defisiensi besi, anemia sel sabit, anemia pernicious, dan lainnya, masing-masing dengan penyebab dan karakteristiknya sendiri."
+        ],
+        "context": [""]
+      },
+      {
+        "tag": "anemia_symptoms",
+        "patterns": [
+          "Apa saja gejala anemia?",
+          "Bagaimana cara mengenali gejala anemia?",
+          "Tanda-tanda anemia"
+        ],
+        "responses": [
+          "Gejala anemia bisa meliputi kelelahan, pusing, kulit pucat, napas pendek, dan detak jantung cepat. Jika Anda mengalami gejala ini, konsultasikan dengan dokter."
+        ],
+        "context": [""]
+      },
+      {
+        "tag": "anemia_causes",
+        "patterns": [
+          "Apa penyebab anemia?",
+          "Apa yang bisa menyebabkan seseorang mengalami anemia?",
+          "Faktor penyebab anemia"
+        ],
+        "responses": [
+          "Anemia bisa disebabkan oleh kekurangan zat besi, defisiensi vitamin B12 atau asam folat, penyakit kronis, atau masalah genetik seperti sel sabit."
+        ],
+        "context": [""]
+      },
+      {
+        "tag": "anemia_diagnosis",
+        "patterns": [
+          "Bagaimana anemia didiagnosis?",
+          "Prosedur diagnosa anemia",
+          "Apa yang dilakukan dokter untuk mengidentifikasi anemia?"
+        ],
+        "responses": [
+          "Anemia didiagnosis melalui pemeriksaan darah, termasuk tes hemoglobin dan hematokrit, serta mungkin tes tambahan untuk menentukan penyebabnya."
+        ],
+        "context": [""]
+      },
+      {
+        "tag": "anemia_treatment",
+        "patterns": [
+          "Bagaimana pengobatan anemia?",
+          "Apa jenis pengobatan yang digunakan untuk anemia?",
+          "Cara mengatasi anemia"
+        ],
+        "responses": [
+          "Pengobatan anemia tergantung pada penyebabnya. Ini bisa mencakup suplemen zat besi, vitamin B12, atau asam folat, transfusi darah, atau pengobatan untuk penyakit yang mendasarinya."
+        ],
+        "context": [""]
+      },
+      {
+        "tag": "anemia_prevention",
+        "patterns": [
+          "Bagaimana mencegah anemia?",
+          "Apa yang bisa saya lakukan untuk mencegah anemia?",
+          "Langkah-langkah pencegahan anemia"
+        ],
+        "responses": [
+          "Pencegahan anemia melibatkan konsumsi makanan yang kaya zat besi, vitamin B12, dan asam folat, serta mengelola penyakit kronis yang dapat menyebabkan anemia."
+        ],
+        "context": [""]
+      },
+      {
+        "tag": "anemia_impact",
+        "patterns": [
+          "Bagaimana anemia memengaruhi tubuh?",
+          "Dampak anemia pada kesehatan",
+          "Konsekuensi anemia"
+        ],
+        "responses": [
+          "Anemia dapat menyebabkan kelelahan, kurangnya energi, masalah kognitif, dan komplikasi serius jika tidak diobati. Pengobatan yang tepat penting untuk mencegah komplikasi."
+        ],
+        "context": [""]
+      },
+      {
+        "tag": "anemia_risk_factors",
+        "patterns": [
+          "Apa saja faktor risiko anemia?",
+          "Siapa yang berisiko mengalami anemia?",
+          "Faktor-faktor yang meningkatkan risiko anemia"
+        ],
+        "responses": [
+          "Faktor risiko anemia termasuk diet yang tidak seimbang, menstruasi berat, kehamilan, penyakit kronis, dan kekurangan zat gizi tertentu."
+        ],
+        "context": [""]
+      },
+      {
+        "tag": "anemia_support",
+        "patterns": [
+          "Apakah ada kelompok dukungan untuk penderita anemia?",
+          "Dukungan sosial untuk anemia",
+          "Cara mendapatkan dukungan jika mengidap anemia"
+        ],
+        "responses": [
+          "Ya, ada kelompok dukungan yang dapat membantu penderita anemia. Anda dapat mencari dukungan dari keluarga, teman, atau organisasi kesehatan yang memahami kondisi ini."
+        ],
+        "context": [""]
+      },
+      {
+        "tag": "anemia_complications",
+        "patterns": [
+          "Apa komplikasi yang mungkin terjadi akibat anemia?",
+          "Efek samping anemia",
+          "Masalah kesehatan yang dapat timbul akibat anemia"
+        ],
+        "responses": [
+          "Komplikasi anemia bisa termasuk masalah jantung, gangguan pertumbuhan pada anak-anak, komplikasi kehamilan, dan masalah kesehatan lainnya. Pengobatan yang tepat penting untuk mencegah komplikasi."
+        ],
+        "context": [""]
+      },
+      {
+        "tag": "anemia_management",
+        "patterns": [
+          "Bagaimana mengelola anemia sehari-hari?",
+          "Strategi untuk mengatasi anemia",
+          "Cara merawat diri jika mengidap anemia"
+        ],
+        "responses": [
+          "Mengelola anemia melibatkan mengikuti saran dokter tentang pengobatan, memperhatikan diet yang sehat, mengelola stres, dan beristirahat yang cukup."
+        ],
+        "context": [""]
+      }
+    
+    ]
+  
+}
