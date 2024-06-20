@@ -25,8 +25,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec magna eros. M
 
 # How To Use
 ## Detection Model
-1. --
-2. --
+1. ---
+2. ---
 3. ---
 
 ## Chatbot Model
