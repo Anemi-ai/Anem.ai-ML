@@ -1,4 +1,4 @@
-# Machine Learning - anem.ai "Say Goodbye to Anemia!" 🤖
+# Machine Learning - anem.ai 🤖
 This repository contains code and files related to machine learning models for image classification using the MobileNet architecture. The model is drilled on a data set consisting of two classes: Anemic and Normal
 
 ## Dataset
