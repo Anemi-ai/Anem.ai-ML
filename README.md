@@ -2,6 +2,9 @@
 This repository contains code and files related to machine learning models for image classification using the MobileNet architecture. The model is drilled on a data set consisting of two classes: Anemic and Normal
 
 ## Machine Learning Roadmap
+<p>
+   <img src ="Images/ML Roadmap.png"/>
+</p>
 
 ## Tools / Library / IDE
 - Google Colaboratory
