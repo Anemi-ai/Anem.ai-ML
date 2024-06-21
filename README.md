@@ -36,10 +36,10 @@ This is a dataset containing conjunctiva images, consisting of 2 different class
 
 ## Chatbot Model 
 ### JSON
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec magna eros. Mauris sed eros augue. Phasellus et tortor eget diam posuere accumsan. Aenean at orci dui. Vestibulum ante ipsum, ornare quis lectus a, dapibus cursus risus. Vestibulum maximus sodales congue. Aliquam erat volutpat. Nam in aliquet risus. Duis vitae ex eget nisl consequat bibendum at facilisis orci. Vivamus finibus nibh iaculis velit tincidunt vehicula. Integer pretium suscipit nibh, at molestie nisl aliquam in. Donec lacinia at ligula a imperdiet. Sed orci neque, imperdiet ut tincidunt id, molestie id lorem. Phasellus porta dapibus enim eu facilisis. Donec congue est convallis dolor venenatis, a dignissim nisl faucibus.
+JSON (JavaScript Object Notation) is a commonly used format for data exchange between servers and clients.  JSON data is used to structure and manage the conversation, configuration, and response data of a chatbot. 
 
 ### Output
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec magna eros. Mauris sed eros augue. Phasellus et tortor eget diam posuere accumsan. Aenean at orci dui. Vestibulum ante ipsum, ornare quis lectus a, dapibus cursus risus. Vestibulum maximus sodales congue. Aliquam erat volutpat. Nam in aliquet risus. Duis vitae ex eget nisl consequat bibendum at facilisis orci. Vivamus finibus nibh iaculis velit tincidunt vehicula. Integer pretium suscipit nibh, at molestie nisl aliquam in. Donec lacinia at ligula a imperdiet. Sed orci neque, imperdiet ut tincidunt id, molestie id lorem. Phasellus porta dapibus enim eu facilisis. Donec congue est convallis dolor venenatis, a dignissim nisl faucibus.
+The chatbot model that has been created is able to answer questions with a context about anemia. .
 
 # How To Use
 ## Detection Model
