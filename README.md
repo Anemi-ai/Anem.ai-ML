@@ -43,11 +43,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec magna eros. M
 
 # How To Use
 ## Detection Model
-1. User Takes a Picture of an eye, through the anem.ai app
-2. User Selfie Will be sent to ML Model in the Cloud and converted into an array form
+1. User takes a picture of an eye, through the anem.ai app
+2. User selfie will be sent to ML Model in the Cloud and converted into an array form
 3. Retrieve data and the model makes predictions based on the eye conjunctiva detected in the image, and returns an image with the user's eye conjunctiva analysis
 
 ## Chatbot Model
-1. Lorem ipsum dolor sit amet
-2. Lorem ipsum dolor sit amet
-3. Lorem ipsum dolor sit amet
+1. The user inputs the questions into the chatbot
+2. The chatbot captures the input and starts processing it
+3. The chatbot uses conditional logic to match input with predefined keywords or phrases to identify the user's intent
+4. Returns the response and prompts the user to ask further questions
